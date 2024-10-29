@@ -39,7 +39,7 @@
     text-align: center;
   }
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 428px) {
   .right_menu__ul__li__a__img__logo__img {
     width: 90%;
   }
